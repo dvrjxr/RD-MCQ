@@ -1,0 +1,6 @@
+{
+  "updateAvailable": true,
+  "updateVersion": "2.0.0",
+  "updateLink": "https://your-app-download-link.com",
+  "minRequiredVersion": "1.5.0"
+}
