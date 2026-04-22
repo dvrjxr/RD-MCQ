@@ -1,6 +1,6 @@
 {
-  "updateAvailable": false,
-  "updateVersion": "2.0.0",
-  "updateLink": "https://your-app-download-link.com",
-  "minRequiredVersion": "1.5.0"
+  "updateAvailable": true,
+  "updateVersion": "1.1.0",
+  "updateLink": "https://rankdangal.web.app/",
+  "minRequiredVersion": "1.1.0"
 }
