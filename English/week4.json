@@ -1,181 +1,65 @@
-{ "week": 4, "questions": [ {"q": "Aung San Suu Kyi's Acceptance Speech was
-delivered in which city?", "options": ["London", "Oslo", "New York", "Delhi"],
-"answer": 1, "explanation": "नोबेल शांति पुरस्कार का भाषण ओस्लो (Oslo) में दिया
-गया था।", "subject": "English", "day": 1}, {"q": "Who actually received the
-Nobel Peace Prize on behalf of Aung San Suu Kyi?", "options": ["Her husband",
-"Her son", "Her daughter", "Her friend"], "answer": 1, "explanation": "उनकी ओर
-से उनके बेटे एलेक्जेंडर एरिस ने पुरस्कार प्राप्त किया था।", "subject":
-"English", "day": 1}, {"q": "Aung San Suu Kyi belongs to which country?",
-"options": ["Myanmar (Burma)", "Nepal", "India", "Sri Lanka"], "answer": 0,
-"explanation": "आंग सान सू की म्यांमार (बर्मा) की प्रसिद्ध नेता हैं।",
-"subject": "English", "day": 1}, {"q": "According to the speech, what is more
-precious than gold or silver?", "options": ["Diamond", "Power", "Peace and
-Freedom", "Knowledge"], "answer": 2, "explanation": "भाषण के अनुसार शांति और
-स्वतंत्रता सोने-चांदी से अधिक कीमती है।", "subject": "English",
-"day": 1}, {"q": "In which year was Aung San Suu Kyi awarded the Nobel Peace
-Prize?", "options": ["1990", "1991", "1992", "1993"], "answer": 1,
-"explanation": "उन्हें 1991 में नोबेल शांति पुरस्कार दिया गया था।", "subject":
-"English", "day": 1}, {"q": "The struggle taking place in Burma is for ___.",
-"options": ["Democracy", "Monarchy", "Military rule", "Religion"], "answer": 0,
-"explanation": "बर्मा में चल रहा संघर्ष लोकतंत्र (Democracy) के लिए है।",
-"subject": "English", "day": 1}, {"q": "What was the name of Aung San Suu Kyi's
-son who delivered the speech?", "options": ["Aris Alexander", "Alexander Aris",
-"John Aris", "Michael Aris"], "answer": 1, "explanation": "भाषण देने वाले उनके
-बेटे का नाम एलेक्जेंडर एरिस था।", "subject": "English", "day": 1}, {"q":
-"The 'Acceptance Speech' emphasizes that the prize belongs to ___.", "options":
-["Suu Kyi only", "The government", "The people of Burma", "The United Nations"],
-"answer": 2, "explanation": "भाषण में कहा गया कि यह पुरस्कार बर्मा के लोगों का
-है।", "subject": "English", "day": 1}, {"q": "Aung San Suu Kyi was kept
-under ___ for many years.", "options": ["Hospital", "School", "Hotel", "House
-Arrest"], "answer": 3, "explanation": "उन्हें कई वर्षों तक उनके घर में ही नजरबंद
-(House Arrest) रखा गया था।", "subject": "English", "day": 1}, {"q": "The speech
-states that true peace is 'indivisible' from ___.", "options": ["Freedom",
-"Money", "War", "Politics"], "answer": 0, "explanation": "भाषण के अनुसार सच्ची
-शांति स्वतंत्रता से अविभाज्य है।", "subject": "English", "day": 1}, {"q":
-"Who wrote the prose piece 'Once Upon a Time'?", "options": ["Anita Desai",
-"Toni Morrison", "Mahadevi Varma", "Joan Lexau"], "answer": 1, "explanation":
-"'Once Upon a Time' की लेखिका टोनी मॉरिसन (Toni Morrison) हैं।", "subject":
-"English", "day": 2}, {"q": "In 'Once Upon a Time', the old woman was ___.",
-"options": ["Deaf", "Lame", "Blind", "Rich"], "answer": 2, "explanation": "कहानी
-की वृद्ध महिला अंधी (Blind) थी।", "subject": "English", "day": 2}, {"q": "Toni
-Morrison was the first Black woman to win the Nobel Prize in ___.", "options":
-["Peace", "Literature", "Science", "Economics"], "answer": 1, "explanation": "वह
-साहित्य (Literature) में नोबेल जीतने वाली पहली अश्वेत महिला थीं।", "subject":
-"English", "day": 2}, {"q": "The young people came to the old woman to ___
-her.", "options": ["Help", "Feed", "Give money", "Mock/Test"], "answer": 3,
-"explanation": "युवा लोग उनकी परीक्षा लेने या उपहास करने के लिए आए थे।",
-"subject": "English", "day": 2}, {"q": "What did the young people have in their
-hands?", "options": ["A stone", "A bird", "A flower", "A book"], "answer": 1,
-"explanation": "युवाओं के हाथ में एक पक्षी (Bird) था।", "subject": "English",
-"day": 2}, {"q": "The old woman said that the life of the bird was in ___
-hands.", "options": ["Her", "God's", "The young people's", "The king's"],
-"answer": 2, "explanation": "महिला ने कहा कि पक्षी का जीवन युवाओं के हाथों में
-है।", "subject": "English", "day": 2}, {"q": "In the story, 'Bird' is a
-metaphor for ___.", "options": ["Nature", "Language", "Freedom", "Peace"],
-"answer": 1, "explanation": "कहानी में पक्षी भाषा (Language) का प्रतीक है।",
-"subject": "English", "day": 2}, {"q": "What was the reputation of the old
-woman?", "options": ["She was a thief", "She was a wise woman", "She was a
-singer", "She was a doctor"], "answer": 1, "explanation": "वह एक अत्यंत
-बुद्धिमान महिला मानी जाती थी।", "subject": "English",
-"day": 2}, {"q": "According to the author, language is a ___ thing.", "options":
-["Dead", "Living", "Useless", "Fixed"], "answer": 1, "explanation": "लेखिका के
-अनुसार भाषा एक जीवित (Living) चीज है।", "subject": "English", "day": 2},
-{"q": "The young people asked: 'Is the bird in our hands ___?'", "options":
-["Red or Blue", "Small or Big", "Living or Dead", "Ours or Yours"], "answer": 2,
-"explanation": "उनका प्रश्न था कि पक्षी जीवित है या मृत।", "subject": "English",
-"day": 2}, {"q": "The poem 'The Empty Heart' is written by ___.", "options":
-["Alexander Pope", "Periasamy Thooran", "Vidyapati", "Puran Singh"],
-"answer": 1, "explanation": "'The Empty Heart' पेरियासामी थूरन द्वारा लिखी गई
-है।", "subject": "English", "day": 3}, {"q": "What did the man in the poem
-want to be filled?", "options": ["His house", "His pocket", "His pitchers
-(pots)", "His bag"], "answer": 2, "explanation": "वह व्यक्ति अपने सोने के घड़ों
-(pitchers) को भरना चाहता था।", "subject": "English", "day": 3}, {"q": "How many
-pitchers of gold did the tree give him initially?", "options": ["Seven",
-"Eight", "Six", "Five"], "answer": 0, "explanation": "कल्पतरु ने उसे शुरू में
-सात (Seven) घड़े दिए थे।", "subject": "English", "day": 3}, {"q": "The
-name of the wish-yielding tree in the poem is ___.", "options": ["Banyan",
-"Peepal", "Kalpataru", "Neem"], "answer": 2, "explanation": "इच्छा पूरी करने
-वाले पेड़ का नाम कल्पतरु (Kalpataru) है।", "subject": "English",
-"day": 3}, {"q": "What was wrong with the eighth pitcher?", "options": ["It was
-broken", "It was half-full", "It was empty", "It was small"], "answer": 1,
-"explanation": "आठवां घड़ा आधा भरा (half-full) हुआ था।", "subject": "English",
-"day": 3}, {"q": "The man tried to fill the eighth pitcher by sacrificing his
-___.", "options": ["Clothes", "Books", "Health and Peace", "Food"], "answer": 2,
-"explanation": "उसने उसे भरने के लिए अपनी सेहत और चैन की बलि दे दी।", "subject":
-"English", "day": 3}, {"q": "Greed is ___ but life is not.", "options":
-["Short", "Sweet", "Endless", "Temporary"], "answer": 2, "explanation": "लालच
-अनंत (Endless) है पर जीवन नहीं।", "subject": "English", "day": 3}, {"q":
-"The man died before he could fill the ___ pitcher.", "options": ["First",
-"Seventh", "Eighth", "Ninth"], "answer": 2, "explanation": "वह आठवें घड़े को
-भरने से पहले ही मर गया।", "subject": "English", "day": 3}, {"q": "What
-does the 'Empty Heart' signify?", "options": ["Physical illness", "Lack of
-love", "Insatiable greed", "Poverty"], "answer": 2, "explanation": "यह 'कभी न
-खत्म होने वाले लालच' का प्रतीक है।", "subject": "English", "day": 3},
-{"q": "The man's prayer was ___ by the tree.", "options": ["Ignored", "Granted",
-"Rejected", "Laughed at"], "answer": 1, "explanation": "पेड़ ने उसकी प्रार्थना
-स्वीकार (Granted) कर ली थी।", "subject": "English", "day": 3}, {"q": "Who
-wrote the poem 'The Sleeping Porter'?", "options": ["Laxmi Prasad Devkota",
-"Anita Desai", "William Cowper", "Satyajit Ray"], "answer": 0, "explanation":
-"यह कविता लक्ष्मी प्रसाद देवकोटा द्वारा लिखी गई है।", "subject": "English",
-"day": 4}, {"q": "How much load is the porter carrying on his back?", "options":
-["10 kilos", "20 kilos", "25 kilos", "50 kilos"], "answer": 2, "explanation":
-"कुली (Porter) अपनी पीठ पर 25 किलो वजन ढो रहा है।", "subject": "English",
-"day": 4}, {"q": "The porter is wearing a ___ cap.", "options": ["New", "Red",
-"Dirty/Black", "Silk"], "answer": 2, "explanation": "उसने एक गंदी या पसीने से
-काली हुई टोपी पहनी है।", "subject": "English", "day": 4}, {"q": "The
-porter is climbing a distance of ___ miles.", "options": ["Two", "Six", "Ten",
-"Twelve"], "answer": 1, "explanation": "कुली छह मील (Six miles) की चढ़ाई कर रहा
-है।", "subject": "English", "day": 4}, {"q": "Despite the cold and hard work,
-the porter's sleep is ___.", "options": ["Restless", "Disturbed", "Deep and
-sweet", "Broken"], "answer": 2, "explanation": "थकान के कारण उसे गहरी और मीठी
-नींद आती है।", "subject": "English", "day": 4}, {"q": "The porter is
-compared to a 'hero' or a 'conqueror of ___'.", "options": ["Cities", "The
-peaks", "People", "Wealth"], "answer": 1, "explanation": "उसे पर्वत की चोटियों
-(The peaks) का विजेता कहा गया है।", "subject": "English", "day": 4}, {"q": "His
-body is infested with ___.", "options": ["Flies", "Ants", "Lice", "Bees"],
-"answer": 2, "explanation": "उसके शरीर पर जुएं (Lice) रेंग रही हैं।", "subject":
-"English", "day": 4}, {"q": "Where does the porter sleep?", "options": ["In a
-palace", "In a hotel", "In a hut", "In a school"], "answer": 2, "explanation":
-"कुली एक झोपड़ी (Hut) में सोता है।", "subject": "English", "day": 4}, {"q":
-"The porter's heart is beating like a .", "options": ["Drum", "Clock", "Bird",
-"Engine"], "answer": 2, "explanation": "उसका हृदय एक पक्षी (Bird) की तरह फड़फड़ा
-रहा है।", "subject": "English", "day": 4}, {"q": "The poem shows the struggle of
-a poor man against .", "options": ["Enemies", "Nature", "Animals",
-"Government"], "answer": 1, "explanation": "यह कविता प्रकृति के खिलाफ एक गरीब
-आदमी के संघर्ष को दिखाती है।", "subject": "English", "day": 4}, {"q": "We
-___ respect our elders.", "options": ["can", "should", "may", "might"],
-"answer": 1, "explanation": "नैतिक सलाह के लिए 'should' का प्रयोग होता है।",
-"subject": "English", "day": 5}, {"q": " I come in, sir?", "options": ["Can",
-"Must", "May", "Should"], "answer": 2, "explanation": "औपचारिक अनुमति के लिए
-'May' का प्रयोग किया जाता है।", "subject": "English", "day": 5}, {"q": "It ___
-rain today.", "options": ["must", "should", "may", "could"], "answer": 2,
-"explanation": "संभावना के लिए 'may' सबसे उपयुक्त है।", "subject": "English",
-"day": 5}, {"q": "I ___ swim when I was ten.", "options": ["could", "may",
-"shall", "must"], "answer": 0, "explanation": "भूतकाल की योग्यता के लिए 'could'
-का प्रयोग होता है।", "subject": "English", "day": 5}, {"q": "You ___ not smoke
-in the hospital.", "options": ["may", "must", "can", "should"], "answer": 1,
-"explanation": "सख्त मनाही के लिए 'must not' का प्रयोग होता है।", "subject":
-"English", "day": 5}, {"q": " you lend me your pen, please?", "options":
-["Must", "Should", "Could", "May"], "answer": 2, "explanation": "विनम्र निवेदन
-के लिए 'Could' का प्रयोग होता है।", "subject": "English", "day": 5}, {"q":
-"We ___ obey the laws of the country.", "options": ["can", "must", "may",
-"might"], "answer": 1, "explanation": "कानूनी अनिवार्यता के लिए 'must' का प्रयोग
-होता है।", "subject": "English", "day": 5}, {"q": "He ___ be at home right
-now.", "options": ["must", "should", "can", "shall"], "answer": 0,
-"explanation": "प्रबल संभावना के लिए 'must' लगता है।", "subject": "English",
-"day": 5}, {"q": "Work hard lest you ___ fail.", "options": ["can", "may",
-"must", "should"], "answer": 3, "explanation": "'Lest' के साथ हमेशा 'should' का
-जोड़ा बनता है।", "subject": "English", "day": 5}, {"q": "I ___ solve this
-puzzle easily.", "options": ["can", "may", "should", "must"], "answer": 0,
-"explanation": "वर्तमान क्षमता के लिए 'can' का प्रयोग होता है।", "subject":
-"English", "day": 5}, {"q": "Choose the correct translation: 'मैं अंग्रेजी बोल
-सकता हूँ।'", "options": ["I should speak English.", "I may speak English.",
-"I must speak English.", "I can speak English."], "answer": 3, "explanation":
-"क्षमता के लिए 'can' का प्रयोग सही है।", "subject": "English", "day": 6},
-{"q": "Correct spelling of 'अनुशासन':", "options": ["Descipline", "Discipline",
-"Dicipline", "Discepline"], "answer": 1, "explanation": "सही स्पेलिंग
-'Discipline' है।", "subject": "English", "day": 6}, {"q": "Identify the correct
-spelling:", "options": ["Psychology", "Sychology", "Pshycology", "Psychollogy"],
-"answer": 0, "explanation": "सही स्पेलिंग 'Psychology' है।", "subject":
-"English", "day": 6}, {"q": "Translate: 'हमें गरीबों की मदद करनी चाहिए।'",
-"options": ["We should help the poor.", "We can help the poor.", "We may help
-the poor.", "We must help the poor."], "answer": 0, "explanation": "कर्तव्यबोध
-के लिए 'should' का प्रयोग होता है।", "subject": "English", "day": 6}, {"q":
-"Antonym of 'Wealthy' is ___.", "options": ["Rich", "Poor", "Famous", "Strong"],
-"answer": 1, "explanation": "'Wealthy' (अमीर) का विलोम 'Poor' (गरीब) है।",
-"subject": "English", "day": 6}, {"q": "Synonym of 'Silent' is ___.", "options":
-["Noisy", "Quiet", "Loud", "Active"], "answer": 1, "explanation": "'Silent' का
-समानार्थी 'Quiet' (शांत) है।", "subject": "English", "day": 6}, {"q":
-"Choose the correct spelling:", "options": ["Tomorrow", "Tommorow", "Tommorro",
-"Tomorrowe"], "answer": 0, "explanation": "सही स्पेलिंग 'Tomorrow' है।",
-"subject": "English", "day": 6}, {"q": "Translate: 'तुम कब आओगे?'", "options":
-["When you come?", "When will you come?", "Where you come?", "How you come?"],
-"answer": 1, "explanation": "भविष्य काल के प्रश्न के लिए 'will' का प्रयोग सही
-है।", "subject": "English", "day": 6}, {"q": "Correct spelling of
-'कमिटी':", "options": ["Commitee", "Comittee", "Committee",
-"Commitey"], "answer": 2, "explanation": "सही स्पेलिंग 'Committee' है।",
-"subject": "English", "day": 6}, {"q": "Translate: 'धूम्रपान करना स्वास्थ्य के
-लिए हानिकारक है।'", "options": ["Smoking is good for health.", "Smoking is
-injurious to health.", "Smoking is not for health.", "Smoking for health."],
-"answer": 1, "explanation": "Injurious to health सही वाक्यांश है।", "subject":
-"English", "day": 6} ] }
+{
+"week": 4,
+"questions": [
+{"q": "Who is the author of the essay 'What is Wrong with Indian Films'?", "options": ["Humayun Kabir", "Satyajit Ray", "Premchand", "Vidyapati"], "answer": 1, "explanation": "यह प्रसिद्ध निबंध फिल्म निर्देशक सत्यजीत राय द्वारा लिखा गया है।", "subject": "English", "day": 1},
+{"q": "According to Satyajit Ray, what is the most important thing for Indian films?", "options": ["Music", "Glamour", "A style of their own", "Length"], "answer": 2, "explanation": "राय के अनुसार भारतीय फिल्मों की अपनी एक विशेष शैली होनी चाहिए।", "subject": "English", "day": 1},
+{"q": "In which city were the first short films produced in India?", "options": ["Delhi", "Madras", "Calcutta", "Bombay"], "answer": 2, "explanation": "भारत में पहली लघु फ़िल्में कलकत्ता (अब कोलकाता) में बनी थीं।", "subject": "English", "day": 1},
+{"q": "The raw material of cinema is ________ itself.", "options": ["Script", "Music", "Life", "Money"], "answer": 2, "explanation": "सत्यजीत राय के अनुसार सिनेमा की कच्ची सामग्री 'जीवन' ही है।", "subject": "English", "day": 1},
+{"q": "Indian films are often compared with which film industry?", "options": ["French", "Hollywood", "British", "Japanese"], "answer": 1, "explanation": "भारतीय फिल्मों की तुलना अक्सर हॉलीवुड (अमेरिकी फिल्म उद्योग) से की जाती है।", "subject": "English", "day": 1},
+{"q": "What is the common fault found in Indian films according to the author?", "options": ["Too much action", "Lack of logic", "Small budget", "Good acting"], "answer": 1, "explanation": "लेखक के अनुसार भारतीय फिल्मों में अक्सर तर्क (logic) की कमी पाई जाती है।", "subject": "English", "day": 1},
+{"q": "Why is the creative mind in India not able to work freely in films?", "options": ["Lack of tools", "Financial constraints", "Lack of talent", "Both A and B"], "answer": 3, "explanation": "तकनीकी उपकरणों और धन की कमी रचनात्मकता में बाधा डालती है।", "subject": "English", "day": 1},
+{"q": "Satyajit Ray was the first Indian to receive which international award?", "options": ["Nobel Prize", "Oscar (Honorary)", "Pulitzer", "Booker Prize"], "answer": 1, "explanation": "सत्यजीत राय पहले भारतीय थे जिन्हें मानद ऑस्कर पुरस्कार मिला था।", "subject": "English", "day": 1},
+{"q": "What kind of music should be avoided in Indian films as per Ray?", "options": ["Classical", "Folk", "Excessive western jazz", "Indian instruments"], "answer": 2, "explanation": "लेखक के अनुसार फिल्मों में जरूरत से ज्यादा पश्चिमी जैज संगीत से बचना चाहिए।", "subject": "English", "day": 1},
+{"q": "The essay 'What is Wrong with Indian Films' is taken from which book?", "options": ["Our Films, Their Films", "Pather Panchali", "My Life", "Indian Cinema Today"], "answer": 0, "explanation": "यह निबंध सत्यजीत राय की पुस्तक 'Our Films, Their Films' से लिया गया है।", "subject": "English", "day": 1},
+{"q": "Who wrote the story 'Once Upon a Time'?", "options": ["Laxmi Prasad Devkota", "Toni Morrison", "Alexander Pope", "William Cowper"], "answer": 1, "explanation": "यह कहानी नोबेल विजेता टोनी मॉरिसन द्वारा लिखी गई है।", "subject": "English", "day": 2},
+{"q": "The old woman in 'Once Upon a Time' was ________.", "options": ["Deaf", "Dumb", "Blind", "Lame"], "answer": 2, "explanation": "कहानी की बूढ़ी महिला अंधी थी।", "subject": "English", "day": 2},
+{"q": "How did the old woman know that the visitors were young?", "options": ["By their voices", "She could see them", "By their touch", "She guessed"], "answer": 0, "explanation": "उसने उनकी आवाज़ों और ऊर्जा से पहचाना कि वे युवा थे।", "subject": "English", "day": 2},
+{"q": "What was the question asked by the young people to the old woman?", "options": ["Where is the gold?", "Is the bird in my hand dead or alive?", "Who are you?", "Are you happy?"], "answer": 1, "explanation": "युवाओं ने पूछा था कि उनके हाथ में जो पक्षी है वह जीवित है या मृत।", "subject": "English", "day": 2},
+{"q": "The old woman is famous for her ________.", "options": ["Wealth", "Beauty", "Wisdom", "Anger"], "answer": 2, "explanation": "वह महिला अपनी बुद्धिमानी के लिए जानी जाती थी।", "subject": "English", "day": 2},
+{"q": "In which year did Toni Morrison receive the Nobel Prize?", "options": ["1991", "1993", "1995", "1999"], "answer": 1, "explanation": "टोनी मॉरिसन को 1993 में साहित्य का नोबेल पुरस्कार मिला था।", "subject": "English", "day": 2},
+{"q": "According to the story, what does 'language' represent?", "options": ["A tool", "A bird", "Money", "A forest"], "answer": 1, "explanation": "कहानी में 'पक्षी' भाषा का प्रतीक है, जिसे बचाना या मारना हमारे हाथ में है।", "subject": "English", "day": 2},
+{"q": "The old woman lived in a ________ house.", "options": ["Big palace", "Small", "Multi-storey", "Wooden"], "answer": 1, "explanation": "वह शहर के बाहर एक छोटे से घर में रहती थी।", "subject": "English", "day": 2},
+{"q": "What was the woman's reply to the young people's question?", "options": ["It is dead", "It is alive", "It is in your hands", "I don't know"], "answer": 2, "explanation": "उसने कहा कि यह तुम्हारे हाथ में है (अर्थात तुम चाहो तो उसे जीवित रखो या मार दो)।", "subject": "English", "day": 2},
+{"q": "The young people were trying to ________ the woman.", "options": ["Help", "Trap/Test", "Feed", "Scold"], "answer": 1, "explanation": "युवा लोग महिला की बुद्धिमत्ता की परीक्षा लेना या उसे फँसाना चाहते थे।", "subject": "English", "day": 2},
+{"q": "Who is the poet of 'The Empty Heart'?", "options": ["Puran Singh", "Periasamy Thooran", "Vidyapati", "Alexander Pope"], "answer": 1, "explanation": "यह कविता पेरियासामी थूरन द्वारा रचित है।", "subject": "English", "day": 3},
+{"q": "The man in 'The Empty Heart' was rich but not ________.", "options": ["Healthy", "Satisfied", "Famous", "Greedy"], "answer": 1, "explanation": "आदमी अमीर था लेकिन वह संतुष्ट (satisfied) नहीं था।", "subject": "English", "day": 3},
+{"q": "How many pitchers (pots) of gold coins did the man get?", "options": ["Six", "Seven", "Eight", "Five"], "answer": 1, "explanation": "कल्पतरु वृक्ष ने उसे सोने के सात घड़े दिए थे।", "subject": "English", "day": 3},
+{"q": "To which tree did the man pray for wealth?", "options": ["Banyan", "Peepal", "Kalpaka (Kalpataru)", "Mango"], "answer": 2, "explanation": "उसने कल्पतरु (Kalpaka) वृक्ष से प्रार्थना की थी।", "subject": "English", "day": 3},
+{"q": "The eighth pitcher was ________.", "options": ["Full", "Empty", "Half-full", "Broken"], "answer": 2, "explanation": "आठवां घड़ा आधा भरा हुआ था जिसने उसकी लालच को और बढ़ा दिया।", "subject": "English", "day": 3},
+{"q": "What killed the man in the poem 'The Empty Heart'?", "options": ["A disease", "His greed", "An accident", "Old age"], "answer": 1, "explanation": "उसकी अत्यधिक लालच (Greed) ने उसे मार डाला।", "subject": "English", "day": 3},
+{"q": "The man forgot his ________ in his struggle to fill the 8th pitcher.", "options": ["Health and Sleep", "Clothes", "Name", "Way home"], "answer": 0, "explanation": "लालच के कारण उसने अपनी सेहत और नींद सब त्याग दी थी।", "subject": "English", "day": 3},
+{"q": "What does the 'empty heart' symbolize in the poem?", "options": ["Kindness", "Poverty", "Endless Greed", "Honesty"], "answer": 2, "explanation": "खाली दिल अंतहीन लालच का प्रतीक है जिसे कभी भरा नहीं जा सकता।", "subject": "English", "day": 3},
+{"q": "Where did the man keep the gold pitchers?", "options": ["In a bank", "Under the ground", "In his room", "In his garden"], "answer": 2, "explanation": "उसने घड़ों को अपने घर/कमरे में रखा था।", "subject": "English", "day": 3},
+{"q": "Which of these is 'endless' according to the poet?", "options": ["Life", "Greed", "Money", "Time"], "answer": 1, "explanation": "कवि के अनुसार 'लालच' (Greed) अंतहीन होती है।", "subject": "English", "day": 3},
+{"q": "The poem 'Koel' is written by ________.", "options": ["William Cowper", "Puran Singh", "Alexander Pope", "Walter de la Mare"], "answer": 1, "explanation": "कोयल (Koel) कविता पूरन सिंह द्वारा लिखी गई है।", "subject": "English", "day": 4},
+{"q": "What is the color of the Koel bird?", "options": ["Blue", "White", "Black", "Yellow"], "answer": 2, "explanation": "कोयल का रंग काला होता है।", "subject": "English", "day": 4},
+{"q": "What has 'charred' (burnt) the wings of the Koel?", "options": ["Sunlight", "Fire of Love", "The summer heat", "Electric wire"], "answer": 1, "explanation": "प्रेम की आग (Fire of Love) ने कोयल के पंखों को झुलसा दिया है।", "subject": "English", "day": 4},
+{"q": "Where does the Koel hide itself?", "options": ["In the clouds", "Among the mango leaves", "In a nest", "Under the water"], "answer": 1, "explanation": "कोयल आम के पत्तों (Mango leaves) के पीछे छिप जाती है।", "subject": "English", "day": 4},
+{"q": "The Koel is searching for its ________.", "options": ["Food", "Beloved", "Home", "Friend"], "answer": 1, "explanation": "कोयल अपने प्रियतम (Beloved) की तलाश में गीत गाती है।", "subject": "English", "day": 4},
+{"q": "What wakes up a thousand memories in the poet's heart?", "options": ["The rain", "The Koel's song", "The sunrise", "The cold wind"], "answer": 1, "explanation": "कोयल की ऊंची तान कवि के मन में हजारों यादें ताजा कर देती है।", "subject": "English", "day": 4},
+{"q": "The high-pitched strain of the Koel is like ________.", "options": ["A sweet flute", "A painful cry", "A soft whisper", "A loud drum"], "answer": 1, "explanation": "कोयल की आवाज़ में एक मीठा दर्द या तड़प (cry) महसूस होती है।", "subject": "English", "day": 4},
+{"q": "The rose is 'on fire' because of the ________.", "options": ["Sun", "Koel's song", "Spring season", "Rain"], "answer": 1, "explanation": "कविता के अनुसार कोयल का गीत प्रकृति में भी आग (उत्तेजना) लगा देता है।", "subject": "English", "day": 4},
+{"q": "What is the state of the Koel's soul?", "options": ["Happy", "On fire", "Calm", "Sleepy"], "answer": 1, "explanation": "कोयल की आत्मा भी विरह की आग (on fire) में जल रही है।", "subject": "English", "day": 4},
+{"q": "Which season is mentioned in the context of the Koel?", "options": ["Winter", "Summer/Spring", "Rainy", "Autumn"], "answer": 1, "explanation": "कोयल मुख्य रूप से वसंत और गर्मी के मौसम में गाती है।", "subject": "English", "day": 4},
+{"q": "Identify the correct tense: 'He ________ to school every day.'", "options": ["go", "goes", "going", "gone"], "answer": 1, "explanation": "नियमित आदत के लिए Present Simple (goes) का प्रयोग होता है।", "subject": "English", "day": 5},
+{"q": "Fill in the blank: 'She is fond ________ music.'", "options": ["of", "to", "with", "at"], "answer": 0, "explanation": "'Fond' के साथ हमेशा preposition 'of' लगता है।", "subject": "English", "day": 5},
+{"q": "Choose the correct preposition: 'The cat jumped ________ the table.'", "options": ["at", "on", "upon", "in"], "answer": 2, "explanation": "गति के साथ किसी सतह पर आने के लिए 'upon' का प्रयोग होता है।", "subject": "English", "day": 5},
+{"q": "Choose the correct form: 'I have been ________ for two hours.'", "options": ["wait", "waited", "waiting", "waits"], "answer": 2, "explanation": "Present Perfect Continuous में 'have been + v-ing' का प्रयोग होता है।", "subject": "English", "day": 5},
+{"q": "They ________ the match yesterday.", "options": ["win", "won", "wins", "winning"], "answer": 1, "explanation": "'Yesterday' भूतकाल को दर्शाता है, इसलिए V2 (won) लगेगा।", "subject": "English", "day": 5},
+{"q": "Divide these sweets ________ the two brothers.", "options": ["among", "between", "in", "with"], "answer": 1, "explanation": "दो व्यक्तियों के बीच तुलना या वितरण के लिए 'between' लगता है।", "subject": "English", "day": 5},
+{"q": "Honesty ________ the best policy.", "options": ["was", "is", "were", "been"], "answer": 1, "explanation": "यूनिवर्सल ट्रुथ हमेशा Present Tense (is) में होते हैं।", "subject": "English", "day": 5},
+{"q": "He is senior ________ me in service.", "options": ["than", "to", "from", "with"], "answer": 1, "explanation": "Senior, Junior, Prefer के साथ 'to' लगता है, 'than' नहीं।", "subject": "English", "day": 5},
+{"q": "It ________ raining since morning.", "options": ["is", "was", "has been", "had"], "answer": 2, "explanation": "समय (since morning) के साथ Perfect Continuous tense का प्रयोग होता है।", "subject": "English", "day": 5},
+{"q": "The sun ________ in the east.", "options": ["rise", "rose", "rises", "rising"], "answer": 2, "explanation": "सूर्य का उगना एक शाश्वत सत्य है, अतः Present Simple (rises) लगेगा।", "subject": "English", "day": 5},
+{"q": "Choose the correct spelling:", "options": ["Received", "Recieved", "Recived", "Receved"], "answer": 0, "explanation": "'Received' (प्राप्त किया) की सही स्पेलिंग 'ei' के साथ होती है।", "subject": "English", "day": 6},
+{"q": "What is the synonym of 'Happy'?", "options": ["Sad", "Joyful", "Angry", "Dull"], "answer": 1, "explanation": "Happy का पर्यायवाची Joyful (प्रसन्न) है।", "subject": "English", "day": 6},
+{"q": "What is the antonym of 'Ancient'?", "options": ["Old", "Modern", "Past", "History"], "answer": 1, "explanation": "Ancient (प्राचीन) का विलोम Modern (आधुनिक) है।", "subject": "English", "day": 6},
+{"q": "Choose the correct spelling:", "options": ["Gramar", "Grammer", "Grammar", "Gramer"], "answer": 2, "explanation": "'Grammar' की सही स्पेलिंग के अंत में 'ar' आता है।", "subject": "English", "day": 6},
+{"q": "Passive voice of 'He plays football':", "options": ["Football is played by him", "Football was played by him", "Football played by him", "He is played by football"], "answer": 0, "explanation": "Present Simple का पैसिव 'is/am/are + V3' होता है।", "subject": "English", "day": 6},
+{"q": "Choose the correct spelling:", "options": ["Committee", "Comitee", "Commitee", "Comittie"], "answer": 0, "explanation": "'Committee' में double m, double t, और double e होता है।", "subject": "English", "day": 6},
+{"q": "What is the meaning of 'Solitude'?", "options": ["Crowd", "Loneliness", "Happiness", "Music"], "answer": 1, "explanation": "Solitude का अर्थ अकेलापन (Loneliness) होता है।", "subject": "English", "day": 6},
+{"q": "Choose the correct spelling:", "options": ["Believe", "Beleive", "Belive", "Beleeve"], "answer": 0, "explanation": "Believe (विश्वास) की सही स्पेलिंग 'ie' के साथ होती है।", "subject": "English", "day": 6},
+{"q": "Direct/Indirect: He said, 'I am ill.'", "options": ["He said that he is ill", "He said that he was ill", "He said that I am ill", "He says he is ill"], "answer": 1, "explanation": "Reporting verb 'said' (past) में होने पर 'am' बदलकर 'was' हो जाता है।", "subject": "English", "day": 6},
+{"q": "Which of these is the correct spelling?", "options": ["Necessary", "Necesary", "Neccesary", "Necasary"], "answer": 0, "explanation": "'Necessary' (आवश्यक) की सही स्पेलिंग 'c' और double 's' के साथ होती है।", "subject": "English", "day": 6}
+]
+}
