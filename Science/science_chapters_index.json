@@ -1,0 +1,361 @@
+{
+  "subject": "science",
+  "totalChapters": 20,
+  "totalQuestions": 2450,
+  "chapters": [
+    {
+      "name": "Light - Reflection and Refraction",
+      "count": 248,
+      "weeks": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        19,
+        20,
+        23,
+        24,
+        31,
+        35
+      ]
+    },
+    {
+      "name": "Human Eye and Colourful World",
+      "count": 120,
+      "weeks": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        19,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "name": "Electricity",
+      "count": 178,
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        21,
+        23,
+        24,
+        35
+      ]
+    },
+    {
+      "name": "Magnetic Effects of Electric Current",
+      "count": 79,
+      "weeks": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        21,
+        23,
+        24,
+        35
+      ]
+    },
+    {
+      "name": "Sources of Energy",
+      "count": 79,
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12,
+        22,
+        33,
+        35
+      ]
+    },
+    {
+      "name": "Chemical Reactions and Equations",
+      "count": 141,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "name": "Acids, Bases and Salts",
+      "count": 165,
+      "weeks": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        23,
+        24,
+        25,
+        35
+      ]
+    },
+    {
+      "name": "Metals and Non-metals",
+      "count": 133,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        23,
+        24,
+        26,
+        35
+      ]
+    },
+    {
+      "name": "Carbon and its Compounds",
+      "count": 135,
+      "weeks": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14,
+        23,
+        24,
+        26,
+        35
+      ]
+    },
+    {
+      "name": "Periodic Classification of Elements",
+      "count": 178,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        15,
+        23,
+        24,
+        27,
+        35
+      ]
+    },
+    {
+      "name": "Life Processes",
+      "count": 217,
+      "weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        23,
+        24,
+        28,
+        35
+      ]
+    },
+    {
+      "name": "Control and Coordination",
+      "count": 173,
+      "weeks": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        17,
+        23,
+        24,
+        29,
+        32,
+        35
+      ]
+    },
+    {
+      "name": "How do Organisms Reproduce?",
+      "count": 138,
+      "weeks": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        17,
+        23,
+        24,
+        29,
+        32,
+        35
+      ]
+    },
+    {
+      "name": "Heredity and Evolution",
+      "count": 195,
+      "weeks": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        18,
+        23,
+        24,
+        30,
+        35
+      ]
+    },
+    {
+      "name": "Sustainable Management of Natural Resources",
+      "count": 43,
+      "weeks": [
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        12,
+        22
+      ]
+    },
+    {
+      "name": "Our Environment",
+      "count": 106,
+      "weeks": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        22,
+        33,
+        35
+      ]
+    },
+    {
+      "name": "Metals and physical properties",
+      "count": 1,
+      "weeks": [
+        11
+      ]
+    },
+    {
+      "name": "Mock Test",
+      "count": 20,
+      "weeks": [
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Human Eye and Colorful World",
+      "count": 31,
+      "weeks": [
+        31,
+        35
+      ]
+    },
+    {
+      "name": "Management of Natural Resources",
+      "count": 70,
+      "weeks": [
+        34
+      ]
+    }
+  ]
+}
