@@ -1,0 +1,957 @@
+{
+  "subject": "english",
+  "totalChapters": 118,
+  "totalQuestions": 2450,
+  "chapters": [
+    {
+      "name": "The Pace for Living",
+      "count": 43,
+      "weeks": [
+        1,
+        6,
+        9,
+        11,
+        13,
+        25
+      ]
+    },
+    {
+      "name": "Me and the Ecology Bit",
+      "count": 41,
+      "weeks": [
+        1,
+        6,
+        9,
+        11,
+        13,
+        25
+      ]
+    },
+    {
+      "name": "God Made the Country",
+      "count": 43,
+      "weeks": [
+        1,
+        7,
+        9,
+        11,
+        15,
+        27
+      ]
+    },
+    {
+      "name": "Ode on Solitude",
+      "count": 41,
+      "weeks": [
+        1,
+        7,
+        9,
+        11,
+        15,
+        27
+      ]
+    },
+    {
+      "name": "Articles",
+      "count": 20,
+      "weeks": [
+        1,
+        19
+      ]
+    },
+    {
+      "name": "Prepositions",
+      "count": 20,
+      "weeks": [
+        1,
+        19
+      ]
+    },
+    {
+      "name": "Translation & Vocabulary",
+      "count": 110,
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Gillu",
+      "count": 41,
+      "weeks": [
+        2,
+        7,
+        9,
+        11,
+        13,
+        25
+      ]
+    },
+    {
+      "name": "What is Wrong with Indian Films",
+      "count": 41,
+      "weeks": [
+        2,
+        7,
+        9,
+        11,
+        13,
+        25
+      ]
+    },
+    {
+      "name": "Polythene Bag",
+      "count": 40,
+      "weeks": [
+        2,
+        8,
+        9,
+        11,
+        15,
+        27
+      ]
+    },
+    {
+      "name": "Thinner Than a Crescent",
+      "count": 41,
+      "weeks": [
+        2,
+        8,
+        9,
+        11,
+        15,
+        27
+      ]
+    },
+    {
+      "name": "Tense",
+      "count": 20,
+      "weeks": [
+        2
+      ]
+    },
+    {
+      "name": "Acceptance Speech",
+      "count": 41,
+      "weeks": [
+        3,
+        7,
+        9,
+        11,
+        14,
+        26
+      ]
+    },
+    {
+      "name": "Once Upon a Time",
+      "count": 40,
+      "weeks": [
+        3,
+        7,
+        9,
+        11,
+        14,
+        26
+      ]
+    },
+    {
+      "name": "The Empty Heart",
+      "count": 42,
+      "weeks": [
+        3,
+        8,
+        9,
+        11,
+        16,
+        28
+      ]
+    },
+    {
+      "name": "Koel",
+      "count": 41,
+      "weeks": [
+        3,
+        8,
+        9,
+        11,
+        16,
+        28
+      ]
+    },
+    {
+      "name": "Voice",
+      "count": 40,
+      "weeks": [
+        3,
+        8,
+        18
+      ]
+    },
+    {
+      "name": "The Unity of Indian Culture",
+      "count": 40,
+      "weeks": [
+        4,
+        7,
+        9,
+        11,
+        14,
+        26
+      ]
+    },
+    {
+      "name": "Little Girls Wiser Than Men",
+      "count": 43,
+      "weeks": [
+        4,
+        7,
+        9,
+        11,
+        14,
+        26
+      ]
+    },
+    {
+      "name": "The Sleeping Porter",
+      "count": 40,
+      "weeks": [
+        4,
+        8,
+        9,
+        11,
+        16,
+        28
+      ]
+    },
+    {
+      "name": "Martha",
+      "count": 41,
+      "weeks": [
+        4,
+        8,
+        9,
+        11,
+        16,
+        28
+      ]
+    },
+    {
+      "name": "Modals",
+      "count": 30,
+      "weeks": [
+        4,
+        7,
+        19
+      ]
+    },
+    {
+      "name": "Syntax",
+      "count": 30,
+      "weeks": [
+        4,
+        6,
+        18
+      ]
+    },
+    {
+      "name": "January Night",
+      "count": 12,
+      "weeks": [
+        5,
+        11
+      ]
+    },
+    {
+      "name": "Allergy",
+      "count": 22,
+      "weeks": [
+        5,
+        11,
+        17
+      ]
+    },
+    {
+      "name": "The Bet",
+      "count": 12,
+      "weeks": [
+        5,
+        11
+      ]
+    },
+    {
+      "name": "Quality",
+      "count": 12,
+      "weeks": [
+        5,
+        11
+      ]
+    },
+    {
+      "name": "Narration",
+      "count": 40,
+      "weeks": [
+        5,
+        6,
+        18
+      ]
+    },
+    {
+      "name": "Sun and Moon",
+      "count": 11,
+      "weeks": [
+        6,
+        11
+      ]
+    },
+    {
+      "name": "Two Horizons",
+      "count": 11,
+      "weeks": [
+        6,
+        11
+      ]
+    },
+    {
+      "name": "Love Defiled",
+      "count": 21,
+      "weeks": [
+        6,
+        11,
+        29
+      ]
+    },
+    {
+      "name": "Grammar",
+      "count": 80,
+      "weeks": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Supplementary Review",
+      "count": 10,
+      "weeks": [
+        8
+      ]
+    },
+    {
+      "name": "Poetry Review",
+      "count": 1,
+      "weeks": [
+        9
+      ]
+    },
+    {
+      "name": "Panorama Mock",
+      "count": 10,
+      "weeks": [
+        10
+      ]
+    },
+    {
+      "name": "Supplementary Mock",
+      "count": 20,
+      "weeks": [
+        10,
+        29
+      ]
+    },
+    {
+      "name": "Quotes Matching",
+      "count": 10,
+      "weeks": [
+        10
+      ]
+    },
+    {
+      "name": "Statement Analysis",
+      "count": 20,
+      "weeks": [
+        10,
+        22
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "count": 84,
+      "weeks": [
+        11,
+        20,
+        32
+      ]
+    },
+    {
+      "name": "Mega Mock Prose",
+      "count": 10,
+      "weeks": [
+        12
+      ]
+    },
+    {
+      "name": "Mega Mock Poetry",
+      "count": 10,
+      "weeks": [
+        12
+      ]
+    },
+    {
+      "name": "Mega Mock Supp",
+      "count": 10,
+      "weeks": [
+        12
+      ]
+    },
+    {
+      "name": "Mega Mock Grammar",
+      "count": 30,
+      "weeks": [
+        12
+      ]
+    },
+    {
+      "name": "Mega Mock Trans",
+      "count": 10,
+      "weeks": [
+        12
+      ]
+    },
+    {
+      "name": "Combined Prose Part 1",
+      "count": 20,
+      "weeks": [
+        13
+      ]
+    },
+    {
+      "name": "Combined Prose Part 2",
+      "count": 20,
+      "weeks": [
+        14
+      ]
+    },
+    {
+      "name": "Combined Poetry Part 1",
+      "count": 20,
+      "weeks": [
+        15
+      ]
+    },
+    {
+      "name": "Combined Poetry Part 2",
+      "count": 20,
+      "weeks": [
+        16
+      ]
+    },
+    {
+      "name": "January Night & Sun and Moon",
+      "count": 13,
+      "weeks": [
+        17
+      ]
+    },
+    {
+      "name": "The Bet & Quality",
+      "count": 24,
+      "weeks": [
+        17,
+        29
+      ]
+    },
+    {
+      "name": "Two Horizons & Love Defiled",
+      "count": 12,
+      "weeks": [
+        17
+      ]
+    },
+    {
+      "name": "Combined Supplementary",
+      "count": 20,
+      "weeks": [
+        17
+      ]
+    },
+    {
+      "name": "Tenses",
+      "count": 10,
+      "weeks": [
+        18
+      ]
+    },
+    {
+      "name": "Grammar Correction",
+      "count": 10,
+      "weeks": [
+        18
+      ]
+    },
+    {
+      "name": "Spotting Error",
+      "count": 10,
+      "weeks": [
+        18
+      ]
+    },
+    {
+      "name": "Grammar Test",
+      "count": 10,
+      "weeks": [
+        18
+      ]
+    },
+    {
+      "name": "Conjunctions",
+      "count": 10,
+      "weeks": [
+        19
+      ]
+    },
+    {
+      "name": "Grammar Fillers",
+      "count": 10,
+      "weeks": [
+        19
+      ]
+    },
+    {
+      "name": "Error Detection",
+      "count": 10,
+      "weeks": [
+        19
+      ]
+    },
+    {
+      "name": "Grammar Mock",
+      "count": 10,
+      "weeks": [
+        19
+      ]
+    },
+    {
+      "name": "One-word Substitution",
+      "count": 11,
+      "weeks": [
+        20
+      ]
+    },
+    {
+      "name": "Spelling",
+      "count": 13,
+      "weeks": [
+        20
+      ]
+    },
+    {
+      "name": "Idioms",
+      "count": 12,
+      "weeks": [
+        20
+      ]
+    },
+    {
+      "name": "Vocabulary in Context",
+      "count": 10,
+      "weeks": [
+        20
+      ]
+    },
+    {
+      "name": "Vocabulary Mock",
+      "count": 20,
+      "weeks": [
+        20,
+        32
+      ]
+    },
+    {
+      "name": "Practical English",
+      "count": 20,
+      "weeks": [
+        21
+      ]
+    },
+    {
+      "name": "Sentence Reordering",
+      "count": 23,
+      "weeks": [
+        21,
+        33
+      ]
+    },
+    {
+      "name": "Sentence Transformation",
+      "count": 27,
+      "weeks": [
+        21,
+        30
+      ]
+    },
+    {
+      "name": "Synthesis",
+      "count": 20,
+      "weeks": [
+        21,
+        33
+      ]
+    },
+    {
+      "name": "Practical Mock",
+      "count": 10,
+      "weeks": [
+        21
+      ]
+    },
+    {
+      "name": "Literature Trivia",
+      "count": 40,
+      "weeks": [
+        22,
+        34
+      ]
+    },
+    {
+      "name": "Supplementary Trivia",
+      "count": 10,
+      "weeks": [
+        22
+      ]
+    },
+    {
+      "name": "Literature Quotes",
+      "count": 20,
+      "weeks": [
+        22
+      ]
+    },
+    {
+      "name": "Literary Devices",
+      "count": 10,
+      "weeks": [
+        22
+      ]
+    },
+    {
+      "name": "Literature Mock",
+      "count": 20,
+      "weeks": [
+        22,
+        34
+      ]
+    },
+    {
+      "name": "Revision Prose",
+      "count": 10,
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "name": "Revision Poetry",
+      "count": 10,
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "name": "Revision Supplementary",
+      "count": 10,
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "name": "Revision Grammar",
+      "count": 20,
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "name": "Revision Vocab",
+      "count": 10,
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "name": "Mock Paper 1",
+      "count": 10,
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "name": "Final Revision",
+      "count": 60,
+      "weeks": [
+        24
+      ]
+    },
+    {
+      "name": "Grand Mock 2",
+      "count": 10,
+      "weeks": [
+        24
+      ]
+    },
+    {
+      "name": "Prose Textual Details",
+      "count": 10,
+      "weeks": [
+        25
+      ]
+    },
+    {
+      "name": "Synonyms & Antonyms",
+      "count": 10,
+      "weeks": [
+        25
+      ]
+    },
+    {
+      "name": "Prose Mock 1",
+      "count": 10,
+      "weeks": [
+        25
+      ]
+    },
+    {
+      "name": "Themes & Characters",
+      "count": 10,
+      "weeks": [
+        26
+      ]
+    },
+    {
+      "name": "Text Fill-ups",
+      "count": 10,
+      "weeks": [
+        26
+      ]
+    },
+    {
+      "name": "Prose Mock 2",
+      "count": 10,
+      "weeks": [
+        26
+      ]
+    },
+    {
+      "name": "Poetry Lines",
+      "count": 10,
+      "weeks": [
+        27
+      ]
+    },
+    {
+      "name": "Poetic Devices",
+      "count": 10,
+      "weeks": [
+        27
+      ]
+    },
+    {
+      "name": "Poetry Mock 1",
+      "count": 10,
+      "weeks": [
+        27
+      ]
+    },
+    {
+      "name": "Critical Appreciation",
+      "count": 10,
+      "weeks": [
+        28
+      ]
+    },
+    {
+      "name": "Word Meanings",
+      "count": 10,
+      "weeks": [
+        28
+      ]
+    },
+    {
+      "name": "Poetry Mock 2",
+      "count": 10,
+      "weeks": [
+        28
+      ]
+    },
+    {
+      "name": "January Night & Allergy",
+      "count": 10,
+      "weeks": [
+        29
+      ]
+    },
+    {
+      "name": "Sun and Moon & Two Horizons",
+      "count": 10,
+      "weeks": [
+        29
+      ]
+    },
+    {
+      "name": "Character Traits",
+      "count": 10,
+      "weeks": [
+        29
+      ]
+    },
+    {
+      "name": "Critical Thinking",
+      "count": 10,
+      "weeks": [
+        29
+      ]
+    },
+    {
+      "name": "Grammar - Tenses",
+      "count": 10,
+      "weeks": [
+        30
+      ]
+    },
+    {
+      "name": "Active/Passive Voice",
+      "count": 10,
+      "weeks": [
+        30
+      ]
+    },
+    {
+      "name": "Direct/Indirect",
+      "count": 10,
+      "weeks": [
+        30
+      ]
+    },
+    {
+      "name": "Mixed Voice & Narration",
+      "count": 10,
+      "weeks": [
+        30
+      ]
+    },
+    {
+      "name": "Conditionals & Tenses",
+      "count": 10,
+      "weeks": [
+        30
+      ]
+    },
+    {
+      "name": "Grammar Mock 1",
+      "count": 10,
+      "weeks": [
+        30
+      ]
+    },
+    {
+      "name": "Subject-Verb Agreement",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Grammar - Articles",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Grammar - Prepositions",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Grammar - Modals",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Advanced Rules",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Spotting Errors",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Grammar Mock 2",
+      "count": 10,
+      "weeks": [
+        31
+      ]
+    },
+    {
+      "name": "Bilingual Translation",
+      "count": 20,
+      "weeks": [
+        33
+      ]
+    },
+    {
+      "name": "Sentence Correction",
+      "count": 10,
+      "weeks": [
+        33
+      ]
+    },
+    {
+      "name": "Phrase Translation",
+      "count": 10,
+      "weeks": [
+        33
+      ]
+    },
+    {
+      "name": "Practical English Mock",
+      "count": 10,
+      "weeks": [
+        33
+      ]
+    },
+    {
+      "name": "Quote Identification",
+      "count": 30,
+      "weeks": [
+        34
+      ]
+    },
+    {
+      "name": "Board Model Mock",
+      "count": 70,
+      "weeks": [
+        35
+      ]
+    }
+  ]
+}
