@@ -1,7 +1,7 @@
 {
   "subject": "sst",
-  "totalChapters": 31,
-  "totalQuestions": 2450,
+  "totalChapters": 39,
+  "totalQuestions": 3640,
   "chapters": [
     {
       "name": "The Rise of Nationalism in Europe",
@@ -448,6 +448,109 @@
       "count": 10,
       "weeks": [
         35
+      ]
+    },
+    {
+      "name": "History",
+      "count": 226,
+      "weeks": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Geography",
+      "count": 183,
+      "weeks": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Political Science",
+      "count": 56,
+      "weeks": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "name": "Economics",
+      "count": 115,
+      "weeks": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Disaster Mgmt",
+      "count": 65,
+      "weeks": [
+        36,
+        37,
+        38,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "name": "Civics",
+      "count": 55,
+      "weeks": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Previous Year Question",
+      "count": 210,
+      "weeks": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "name": "Model Paper",
+      "count": 280,
+      "weeks": [
+        49,
+        50,
+        51,
+        52
       ]
     }
   ]
