@@ -1,11 +1,11 @@
 {
   "subject": "math",
-  "totalChapters": 31,
-  "totalQuestions": 2450,
+  "totalChapters": 39,
+  "totalQuestions": 3640,
   "chapters": [
     {
       "name": "Real Numbers",
-      "count": 106,
+      "count": 145,
       "weeks": [
         1,
         9,
@@ -13,12 +13,20 @@
         13,
         21,
         25,
-        32
+        32,
+        36,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
       "name": "Polynomials",
-      "count": 110,
+      "count": 153,
       "weeks": [
         1,
         9,
@@ -26,7 +34,16 @@
         13,
         21,
         25,
-        32
+        32,
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
@@ -70,7 +87,7 @@
     },
     {
       "name": "Linear Equations",
-      "count": 119,
+      "count": 154,
       "weeks": [
         2,
         9,
@@ -78,12 +95,20 @@
         14,
         21,
         25,
-        32
+        32,
+        36,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
       "name": "Quadratic Equations",
-      "count": 121,
+      "count": 173,
       "weeks": [
         2,
         9,
@@ -91,12 +116,21 @@
         14,
         21,
         26,
-        32
+        32,
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
       "name": "Arithmetic Progressions",
-      "count": 111,
+      "count": 137,
       "weeks": [
         3,
         9,
@@ -104,12 +138,16 @@
         15,
         21,
         26,
-        32
+        32,
+        36,
+        38,
+        39,
+        40
       ]
     },
     {
       "name": "Triangles",
-      "count": 125,
+      "count": 158,
       "weeks": [
         3,
         9,
@@ -117,12 +155,18 @@
         16,
         21,
         27,
-        33
+        33,
+        36,
+        39,
+        40,
+        41,
+        42,
+        45
       ]
     },
     {
       "name": "Coordinate Geometry",
-      "count": 131,
+      "count": 195,
       "weeks": [
         4,
         10,
@@ -130,7 +174,16 @@
         15,
         21,
         28,
-        34
+        34,
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
@@ -163,7 +216,7 @@
     },
     {
       "name": "Circles",
-      "count": 123,
+      "count": 151,
       "weeks": [
         5,
         10,
@@ -171,7 +224,14 @@
         16,
         21,
         27,
-        33
+        33,
+        37,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
@@ -185,7 +245,7 @@
     },
     {
       "name": "Areas Related to Circles",
-      "count": 133,
+      "count": 157,
       "weeks": [
         6,
         11,
@@ -194,12 +254,16 @@
         18,
         22,
         30,
-        33
+        33,
+        37,
+        38,
+        39,
+        40
       ]
     },
     {
       "name": "Surface Areas and Volumes",
-      "count": 235,
+      "count": 278,
       "weeks": [
         7,
         11,
@@ -207,41 +271,64 @@
         19,
         22,
         30,
-        33
+        33,
+        37,
+        38,
+        39,
+        40
       ]
     },
     {
       "name": "Statistics",
-      "count": 129,
+      "count": 157,
       "weeks": [
         8,
         11,
         12,
         20,
         22,
-        31
+        31,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
       "name": "Probability",
-      "count": 101,
+      "count": 132,
       "weeks": [
         8,
         11,
         12,
         20,
         22,
-        31
+        31,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
       "name": "Trigonometry",
-      "count": 90,
+      "count": 184,
       "weeks": [
         10,
         17,
         22,
-        28
+        28,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
       ]
     },
     {
@@ -334,6 +421,79 @@
       "count": 10,
       "weeks": [
         24
+      ]
+    },
+    {
+      "name": "Heights and Distances",
+      "count": 11,
+      "weeks": [
+        37,
+        38
+      ]
+    },
+    {
+      "name": "Statistics and Probability",
+      "count": 54,
+      "weeks": [
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "name": "Algebra Advanced",
+      "count": 3,
+      "weeks": [
+        39
+      ]
+    },
+    {
+      "name": "Arithmetic Progression",
+      "count": 29,
+      "weeks": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Mensuration",
+      "count": 57,
+      "weeks": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Heights & Distances",
+      "count": 6,
+      "weeks": [
+        42
+      ]
+    },
+    {
+      "name": "Previous Year Question",
+      "count": 210,
+      "weeks": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "name": "Model Paper",
+      "count": 280,
+      "weeks": [
+        49,
+        50,
+        51,
+        52
       ]
     }
   ]
