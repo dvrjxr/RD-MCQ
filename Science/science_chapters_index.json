@@ -1,11 +1,11 @@
 {
   "subject": "science",
-  "totalChapters": 20,
-  "totalQuestions": 2450,
+  "totalChapters": 25,
+  "totalQuestions": 3640,
   "chapters": [
     {
       "name": "Light - Reflection and Refraction",
-      "count": 248,
+      "count": 288,
       "weeks": [
         1,
         3,
@@ -23,12 +23,15 @@
         23,
         24,
         31,
-        35
+        35,
+        37,
+        39,
+        40
       ]
     },
     {
       "name": "Human Eye and Colourful World",
-      "count": 120,
+      "count": 141,
       "weeks": [
         1,
         4,
@@ -43,12 +46,15 @@
         19,
         20,
         23,
-        24
+        24,
+        37,
+        39,
+        40
       ]
     },
     {
       "name": "Electricity",
-      "count": 178,
+      "count": 210,
       "weeks": [
         1,
         2,
@@ -64,12 +70,15 @@
         21,
         23,
         24,
-        35
+        35,
+        37,
+        39,
+        40
       ]
     },
     {
       "name": "Magnetic Effects of Electric Current",
-      "count": 79,
+      "count": 100,
       "weeks": [
         1,
         2,
@@ -83,12 +92,15 @@
         21,
         23,
         24,
-        35
+        35,
+        37,
+        39,
+        40
       ]
     },
     {
       "name": "Sources of Energy",
-      "count": 79,
+      "count": 91,
       "weeks": [
         1,
         2,
@@ -102,12 +114,14 @@
         12,
         22,
         33,
-        35
+        35,
+        37,
+        40
       ]
     },
     {
       "name": "Chemical Reactions and Equations",
-      "count": 141,
+      "count": 158,
       "weeks": [
         2,
         3,
@@ -123,12 +137,14 @@
         13,
         23,
         24,
-        25
+        25,
+        36,
+        39
       ]
     },
     {
       "name": "Acids, Bases and Salts",
-      "count": 165,
+      "count": 193,
       "weeks": [
         2,
         4,
@@ -144,12 +160,15 @@
         23,
         24,
         25,
-        35
+        35,
+        36,
+        39,
+        40
       ]
     },
     {
       "name": "Metals and Non-metals",
-      "count": 133,
+      "count": 160,
       "weeks": [
         2,
         3,
@@ -166,12 +185,14 @@
         23,
         24,
         26,
-        35
+        35,
+        36,
+        40
       ]
     },
     {
       "name": "Carbon and its Compounds",
-      "count": 135,
+      "count": 158,
       "weeks": [
         2,
         4,
@@ -186,12 +207,14 @@
         23,
         24,
         26,
-        35
+        35,
+        36,
+        39
       ]
     },
     {
       "name": "Periodic Classification of Elements",
-      "count": 178,
+      "count": 190,
       "weeks": [
         2,
         3,
@@ -207,12 +230,14 @@
         23,
         24,
         27,
-        35
+        35,
+        36,
+        39
       ]
     },
     {
       "name": "Life Processes",
-      "count": 217,
+      "count": 262,
       "weeks": [
         2,
         3,
@@ -229,12 +254,15 @@
         23,
         24,
         28,
-        35
+        35,
+        38,
+        39,
+        40
       ]
     },
     {
       "name": "Control and Coordination",
-      "count": 173,
+      "count": 194,
       "weeks": [
         3,
         4,
@@ -251,12 +279,14 @@
         24,
         29,
         32,
-        35
+        35,
+        38,
+        40
       ]
     },
     {
       "name": "How do Organisms Reproduce?",
-      "count": 138,
+      "count": 149,
       "weeks": [
         3,
         4,
@@ -272,12 +302,13 @@
         24,
         29,
         32,
-        35
+        35,
+        38
       ]
     },
     {
       "name": "Heredity and Evolution",
-      "count": 195,
+      "count": 212,
       "weeks": [
         3,
         4,
@@ -292,7 +323,9 @@
         23,
         24,
         30,
-        35
+        35,
+        38,
+        40
       ]
     },
     {
@@ -311,7 +344,7 @@
     },
     {
       "name": "Our Environment",
-      "count": 106,
+      "count": 119,
       "weeks": [
         3,
         4,
@@ -324,7 +357,10 @@
         12,
         22,
         33,
-        35
+        35,
+        38,
+        39,
+        40
       ]
     },
     {
@@ -352,9 +388,63 @@
     },
     {
       "name": "Management of Natural Resources",
-      "count": 70,
+      "count": 80,
       "weeks": [
-        34
+        34,
+        38,
+        39
+      ]
+    },
+    {
+      "name": "Physics",
+      "count": 120,
+      "weeks": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "count": 115,
+      "weeks": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Biology",
+      "count": 115,
+      "weeks": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "name": "Previous Year Question",
+      "count": 210,
+      "weeks": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "name": "Model Paper",
+      "count": 280,
+      "weeks": [
+        49,
+        50,
+        51,
+        52
       ]
     }
   ]
